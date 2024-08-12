@@ -1,5 +1,6 @@
 class Node
 {
+private int something;
 private int data;
 private Node next;
 public void setData(int data)
